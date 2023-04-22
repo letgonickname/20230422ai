@@ -8,3 +8,4 @@
 以上が私のプロフィール。  
 ※半角の空白を２個いれると改行となる！
 HTMLでいえばbrと同じ
+![image](https://user-images.githubusercontent.com/69196890/233783594-f326d851-6f84-4e2d-a587-293334930075.png)
